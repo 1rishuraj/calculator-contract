@@ -1,4 +1,4 @@
-🪙 Solana Calculator Program 
+#🪙 Solana Calculator Program 
 
 This project demonstrates how to **test a Solana on-chain program locally** using **LiteSVM** and **Bun**, without deploying to a real Solana cluster.
 
